@@ -9,4 +9,4 @@
 HTML, CSS, Bootstrap, React.js, Dynamic Route
 
 ## Live site link: 
-[https://nostalgic-liskov-6bea80.netlify.app/](https://nostalgic-liskov-6bea80.netlify.app/)
+Live site link here: [https://nostalgic-liskov-6bea80.netlify.app/](https://nostalgic-liskov-6bea80.netlify.app/)
