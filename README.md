@@ -1,6 +1,6 @@
 # Sport360
 
-# Features:
+## Features:
 1. In this site, different types of leagues are shown using API.
 2. Users can show league details by clicking the explore button.
 3. Dynamic routing is used in this site.
